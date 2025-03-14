@@ -2,7 +2,7 @@
 
 (**说明：**本项目为有偿项目，按功能收取费用，可按自己需求购买~
 
-关于售后：对于基础理论部分可**免费**讲解，可**免费**远程调试程序和答疑，帮你省去不必要的时间~联系方式可看问末)
+关于售后：对于基础理论部分可**免费**讲解，可**免费**远程调试程序和答疑，帮你省去不必要的时间~联系方式可看文末)
 
 
 
@@ -174,3 +174,7 @@ CMC curve, Rank-5  :92.2%
 
 链接：https://pan.baidu.com/s/1QYvFE6rDSmxNl4VBNBar-A 
 提取码：yypn
+
+# 联系方式：
+微信直接搜：y24065939s
+或CSDN文末二维码添加：https://blog.csdn.net/z240626191s/article/details/146266998?sharetype=blogdetail&sharerId=146266998&sharerefer=PC&sharesource=z240626191s&spm=1011.2480.3001.8118
